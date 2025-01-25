@@ -8,6 +8,7 @@ function App() {
         <header className="App-header text-center">
           <h1>React Dictionary App</h1>
         </header>
+        <h2>What word do you want to look up?</h2>
         <main>
           <Dictionary defaultKeyword="love" />
         </main>
