@@ -23,7 +23,7 @@ function App() {
           </a>{" "}
           and it is{" "}
           <a
-            href="https://github.com/yvonnesarah/react-dictionary-homework"
+            href="https://github.com/yvonnesarah/react-dictionary-project"
             target="_blank"
             rel="noreferrer"
           >
@@ -32,7 +32,7 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://ya-react-dictionary-homework.netlify.app/"
+            href="https://ya-react-dictionary-project.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
