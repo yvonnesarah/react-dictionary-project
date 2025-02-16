@@ -18,9 +18,9 @@ N/A
 The application is built with the following technologies:
 * HTML
 * CSS
-*JavaScript
-*React.js
-*Axios (for API requests)
+* JavaScript
+* React.js
+* Axios (for API requests)
 
 ## 🚀 Installation
 No installation is required to use the app. It is hosted online and can be accessed via a web browser.
