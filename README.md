@@ -4,7 +4,8 @@
 The React Dictionary App is a simple and interactive dictionary web application built using React. It allows users to search for word definitions and view related images, providing a seamless and informative experience.
 
 ## 🛠 Prerequisites
-N/A
+* A modern web browser (Chrome, Firefox, Safari, Edge)
+* Internet connection to fetch data from the APIs
 
 ## 📋 Features
 * Search for word definitions using the SheCodes Dictionary API
@@ -42,8 +43,18 @@ Below is a preview of React Dictionary App:
 
 ![Screenshot](images/react-dictionary-app.png "React Dictionary App")
 
+## 🚀 Future Improvements
+* 🌐 Expanded API Support – Integrate additional dictionary APIs for more comprehensive word results.
+* 🏷️ Word Categories – Display parts of speech, origin, and usage examples more clearly.
+* ⭐ Favorites / History – Allow users to save searched words and view search history.
+* 🌓 Dark Mode / Theme Toggle – Add a theme switch for better accessibility.
+* 📱 Enhanced Mobile Experience – Improve layout and performance for smaller screens.
+* 🔔 Word of the Day – Feature a daily word for learning and engagement.
+
 ## 👥 Credit
-N/A
+Developed by Yvonne Adedeji 
+
+Dictionary and image data powered by SheCodes Dictionary API and SheCodes Images API
 
 ## 📜 License
 This project is open-source. For licensing details, please refer to the LICENSE file in the repository.
