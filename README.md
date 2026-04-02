@@ -6,7 +6,7 @@ The React Dictionary App is a simple and interactive dictionary web application 
 ## 🛠 Prerequisites
 N/A
 
-## 📋 Criteria
+## 📋 Features
 * Search for word definitions using the SheCodes Dictionary API
 * Fetch related images from the SheCodes Images API
 * Displays phonetic pronunciation of words
